@@ -1,0 +1,13 @@
+C:\Users\pedro\source\repos\Aprendizado\Teste4\bin\Debug\netcoreapp2.1\Teste4.deps.json
+C:\Users\pedro\source\repos\Aprendizado\Teste4\bin\Debug\netcoreapp2.1\Teste4.runtimeconfig.json
+C:\Users\pedro\source\repos\Aprendizado\Teste4\bin\Debug\netcoreapp2.1\Teste4.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\Aprendizado\Teste4\bin\Debug\netcoreapp2.1\Teste4.dll
+C:\Users\pedro\source\repos\Aprendizado\Teste4\bin\Debug\netcoreapp2.1\Teste4.pdb
+C:\Users\pedro\source\repos\Aprendizado\Teste4\obj\Debug\netcoreapp2.1\Teste4.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Aprendizado\Teste4\obj\Debug\netcoreapp2.1\Teste4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\Aprendizado\Teste4\obj\Debug\netcoreapp2.1\Teste4.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Aprendizado\Teste4\obj\Debug\netcoreapp2.1\Teste4.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Aprendizado\Teste4\obj\Debug\netcoreapp2.1\Teste4.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Aprendizado\Teste4\obj\Debug\netcoreapp2.1\Teste4.dll
+C:\Users\pedro\source\repos\Aprendizado\Teste4\obj\Debug\netcoreapp2.1\Teste4.pdb
+C:\Users\pedro\source\repos\Aprendizado\Teste4\obj\Debug\netcoreapp2.1\Teste4.genruntimeconfig.cache

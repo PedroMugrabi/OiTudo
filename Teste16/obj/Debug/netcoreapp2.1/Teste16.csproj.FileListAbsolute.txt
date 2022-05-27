@@ -1,0 +1,13 @@
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\bin\Debug\netcoreapp2.1\Teste16.deps.json
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\bin\Debug\netcoreapp2.1\Teste16.runtimeconfig.json
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\bin\Debug\netcoreapp2.1\Teste16.runtimeconfig.dev.json
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\bin\Debug\netcoreapp2.1\Teste16.dll
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\bin\Debug\netcoreapp2.1\Teste16.pdb
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\obj\Debug\netcoreapp2.1\Teste16.csproj.AssemblyReference.cache
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\obj\Debug\netcoreapp2.1\Teste16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\obj\Debug\netcoreapp2.1\Teste16.AssemblyInfoInputs.cache
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\obj\Debug\netcoreapp2.1\Teste16.AssemblyInfo.cs
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\obj\Debug\netcoreapp2.1\Teste16.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\obj\Debug\netcoreapp2.1\Teste16.dll
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\obj\Debug\netcoreapp2.1\Teste16.pdb
+C:\Users\pedro\Source\Repos\PedroMugrabi\Aprendizado1\Teste16\obj\Debug\netcoreapp2.1\Teste16.genruntimeconfig.cache
